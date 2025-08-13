@@ -1,4 +1,4 @@
-I'm a (frontend leaning) fullstack engineer. I'm currently working at SoundCloud (previously Siemens & Axel Springer). 
+I'm a frontend leaning fullstack engineer. I'm currently working at SoundCloud (previously Siemens & Axel Springer). 
 
 I love building useful software. Especially in TypeScript.
 
