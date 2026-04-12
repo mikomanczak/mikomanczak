@@ -2,6 +2,6 @@ I'm a frontend-leaning fullstack engineer at SoundCloud (previously Axel Springe
 
 I thrive building useful software with smart people. Especially in TypeScript.
 
-If you want to collaborate or need a freelancer...feel free to email me at mikomanczak@gmail.com.
+If you want to collaborate or need a freelancer, email me at mikomanczak@gmail.com.
 
 
